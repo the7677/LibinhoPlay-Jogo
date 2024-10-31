@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.exe.config
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.exe
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.pdb
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto_Jogo.Form1.resources
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto_Jogo.Properties.Resources.resources
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.exe
+C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.pdb
