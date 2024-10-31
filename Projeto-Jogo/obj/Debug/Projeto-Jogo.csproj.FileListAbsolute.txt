@@ -8,3 +8,13 @@ C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csp
 C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.exe
 C:\Users\Bruno\source\repos\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.pdb
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.exe
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.pdb
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.exe.config
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.exe
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\bin\Debug\Projeto-Jogo.pdb
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto_Jogo.Form1.resources
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto_Jogo.Properties.Resources.resources
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\Projeto-Jogo\Projeto-Jogo\obj\Debug\Projeto-Jogo.csproj.CoreCompileInputs.cache
